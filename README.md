@@ -2,7 +2,7 @@
 `git clone` the repository
 
 # To play the game
-    # java files/main.java
+    java files/main.java
 
 start guessing the characters
 
